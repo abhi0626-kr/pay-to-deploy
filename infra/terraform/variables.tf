@@ -23,7 +23,7 @@ variable "preview_plan" {
 
 variable "repo_url" {
   type    = string
-  default = "https://github.com/jaydeep-99o/paytoprovision"
+  default = "https://github.com/abhi0626-kr/pay-to-deploy.git"
 }
 
 variable "app_base_url" {

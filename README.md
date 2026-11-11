@@ -1,6 +1,6 @@
 # PayToProvision
 
-[![CI](https://github.com/jaydeep-99o/paytoprovision/actions/workflows/ci.yml/badge.svg)](https://github.com/jaydeep-99o/paytoprovision/actions/workflows/ci.yml)
+[![CI](https://github.com/abhi0626-kr/pay-to-deploy.git/actions/workflows/ci.yml/badge.svg)](https://github.com/abhi0626-kr/pay-to-deploy.git/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 **Turn any GitHub repo into a paid live demo.**
